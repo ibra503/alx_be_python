@@ -1,16 +1,16 @@
-num1 = int(input("Enter the first number: "))  
-num2 = int(input("Enter the second number: "))  
+number1 = int(input("Enter the first number: "))  
+number2 = int(input("Enter the second number: "))  
 
 #  addition
-add = num1 + num2
+add = number1 + number2
 
 #  subtraction
-sub = num1 - num2
+sub = number1 - number2
 
 #  multiplication
-multi = num1 * num2
+multi = number1 * number2
 
 #results 
-print("Addition result of", num1 , "and" , num2 ,'is', add)
-print("Subtraction  of", num1 , "and" , num2 ,'is', sub)
-print("Multiplication  of", num1 , "and" , num2 ,'is', multi) 
+print("Addition result of", number1 , "and" , number2 ,'is', add)
+print("Subtraction  of", number1 , "and" , number2 ,'is', sub)
+print("Multiplication  of", number1 , "and" , number2 ,'is', multi) 
