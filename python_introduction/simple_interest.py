@@ -1,6 +1,6 @@
 
-P = int(input ("enter the principal "))
-R = int(input ("enter the rate"))
-T = int(input ("enter the time"))
-I = P * R * T 
+Principal = 1000
+Rate = 0.05
+Time = 3
+I = Principal * Rate * Time 
 print ("The simple interest is" , I)
